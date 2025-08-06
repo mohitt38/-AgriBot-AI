@@ -102,7 +102,7 @@ cp .env.example .env
 
 ## 🎮 Usage
 
-**Live Streamlit Demo:** [https://your-deployed-app.streamlit.app](https://your-deployed-app.streamlit.app)
+**Live Streamlit Demo:** [https://agribotai-mdv.streamlit.app/](https://your-deployed-app.streamlit.app)
 
 ```bash
 streamlit run app.py
