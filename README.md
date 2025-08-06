@@ -118,7 +118,10 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-*Add screenshots of the application UI here (e.g., home page, chat interface, disease detection screen).*
+(<Screenshots/Screenshot 2025-08-05 205826.png>)
+(<Screenshots/Screenshot 2025-08-05 205826.png>)
+(<Screenshots/Screenshot 2025-08-05 210034.png>)
+
 
 ## 🛣 Roadmap
 
