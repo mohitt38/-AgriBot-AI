@@ -151,7 +151,7 @@ We welcome contributions:
 1. Fork the repository
 2. Create a new branch: `feature/<feature-name>`
 3. Submit a pull request
-4. Provide clear commit messages and documentation
+4. Provide clear commit messages and documentations
 
 ---
 
