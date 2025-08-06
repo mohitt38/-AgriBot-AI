@@ -118,9 +118,11 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-(<Screenshots/Screenshot 2025-08-05 205826.png>)
-(<Screenshots/Screenshot 2025-08-05 205826.png>)
-(<Screenshots/Screenshot 2025-08-05 210034.png>)
+![Main Page](<Screenshots/Screenshot 2025-08-05 103047.png>)
+![Crop Advise](<Screenshots/Screenshot 2025-08-05 205826.png>)
+![Market Intelligence](<Screenshots/Screenshot 2025-08-05 210034.png>)
+
+
 
 
 ## 🛣 Roadmap
