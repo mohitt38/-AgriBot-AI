@@ -1,0 +1,13 @@
+openai
+langchain
+streamlit
+tiktoken
+pandas
+python-dotenv
+google-generativeai
+langchain_google_genai
+pillow
+transformers
+requests
+torch
+streamlit
